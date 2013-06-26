@@ -1,0 +1,47 @@
+Person:
+	SL
+	Name
+	spelgrupp
+	lista på spelkaraktärer
+
+Character:
+	Name
+	Bakgrund
+	Total_hp, Skada
+	Vitnerkapacitet, Använda vitnerpoäng
+	Gudakapacitet, använda gudapoäng
+	positivt karaktärsdrag 1, 2
+	negativt karaktärsdrag
+	Folkslag
+	Religion
+	Land, Ort
+	Raud
+	Äp, oanvända Äp
+	Skräck
+	Kunnighet, Besvärjelsekonst, religion, Rörlighet, skötsel, strid, vildmarksvana
+	Färdigheter (lista?)
+	Utrustning (lista?)
+	Besvärjelser/Förmågor
+
+Permanenta effekter
+	Namn
+	beskrivning
+	keyword beskrivning/faktisk effekt
+
+Skräckgrader
+	nivå
+	minus im
+	minus fv/sv
+
+Färdigheter
+	namn
+	kostnad/nivå
+	Beskrivning
+	Effekt
+
+Besvärjelser/gudaförmågor
+	namn
+	nivå
+	effektgrader (lista)
+	Frammingstid
+	Beskrivning
