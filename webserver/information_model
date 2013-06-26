@@ -46,3 +46,14 @@ Besvärjelser/gudaförmågor
 	effektgrader (lista)
 	Frammingstid
 	Beskrivning
+
+Items
+	namn
+	Beskrivning
+	vikt
+	typ
+	skada
+	PV
+	SV
+	VH
+	Andra egenskaper
