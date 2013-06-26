@@ -12,9 +12,10 @@ Character:
 	Gudakapacitet, använda gudapoäng
 	positivt karaktärsdrag 1, 2
 	negativt karaktärsdrag
-	Folkslag
-	Religion
+	Folkslag, Religion
 	Land, Ort
+	Ålder, kön, Längd, Vikt
+	Förflyttning, Vapenhand, 
 	Raud
 	Äp, oanvända Äp
 	Skräck
