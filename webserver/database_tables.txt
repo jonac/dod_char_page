@@ -10,7 +10,7 @@ effects:
 
 Skräckgrader:
 
-Färdigheter:
+Färdigheter: [f_id], nivå, kostnad, beskrivning, kortbeskrivning
 
 Förmågor: [spell_id],nivå, cost, framming, beskrivning
 
