@@ -2,7 +2,13 @@ Person:
 	SL
 	Name
 	spelgrupp
-	lista på spelkaraktärer
+	spelkaraktärer (lista)
+	username
+	password
+
+Spelgrupper:
+	gruppnamn
+	medlemmar
 
 Character:
 	Name
@@ -23,6 +29,11 @@ Character:
 	Färdigheter (lista?)
 	Utrustning (lista?)
 	Besvärjelser/Förmågor
+
+Karaktärsdrag:
+	namn
+	
+	
 
 Permanenta effekter
 	Namn
